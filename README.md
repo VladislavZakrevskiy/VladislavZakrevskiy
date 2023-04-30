@@ -1,3 +1,7 @@
+<div style='height: 100%; width: 40px; background-color: '>
+  ok
+</div>
+
 Hello, my name is Vladislav Zakrevskiy. I'm junior frontend developer
 My stack ( some project with these technologies you can watch in my repositories ):
 
