@@ -1,6 +1,6 @@
 <div align='center'><img src='./header.png' alt='My banner:)'/></div>
 
-<h1 align="center">Hi there, I'm <a href="//my stat//" target="_blank">Frontender</a> 
+<h1 align="center">Hi there, I'm <a href="https://vladislavzakrevskiy.netlify.app/" target="_blank">Frontender</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web-development and some Back-end, Computer Science from Russia 🇷🇺</h3>
 
