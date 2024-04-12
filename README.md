@@ -22,7 +22,7 @@
 <h4>React Native ( expo, react-native-async-storage, @react-navigation, native-base )</h4>
 <h4>VK Mini Apps - VKUI, VK Bridge, VK Miniapps Router + VK Tunnel</h4>
 
-<h4>My backend stack:</h4>
+<h2>My backend stack:</h2>
 
 <h4>Express</h4>
 <h4>NestJS</h4>
@@ -32,7 +32,7 @@
 <h4>node-telegram-bot-api</h4>
 <h4>English B1-B2 - can speak, write, read without some problems</h4>
 
+<h2>Stats: </h2>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VladislavZakrevskiy&theme=transparent&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=1300)](https://git.io/streak-stats)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladislavZakrevskiy&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladislavZakrevskiy&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladislavZakrevskiy&theme=default)
