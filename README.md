@@ -36,3 +36,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladislavZakrevskiy&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VladislavZakrevskiy&theme=default)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VladislavZakrevskiy&theme=default)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=@VladislavZakrevskiy&hide_border=true)
