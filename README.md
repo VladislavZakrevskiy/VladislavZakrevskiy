@@ -4,6 +4,25 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web-development and some Back-end, Computer Science from Russia 🇷🇺</h3>
 
+<h2 align="center">My Great Projects</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <h4>Javascript/Typescript</h4>
+      <h4>Javascript/Typescript</h4>
+    </td>    
+    <td>
+      <h4>Javascript/Typescript</h4>
+      <h4>Javascript/Typescript</h4>
+    </td>
+    <td>
+      <h4>Javascript/Typescript</h4>
+      <h4>Javascript/Typescript</h4>
+    </td>
+  </tr>
+</table>
+
 <h2>My frontend stack:</h2>
 
 <h4>Javascript/Typescript</h4>
