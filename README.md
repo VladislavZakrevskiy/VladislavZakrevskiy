@@ -6,23 +6,25 @@
 
 <h2 align="center">My Commercial Projects</h2>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: end">
-	<div>
-		<img src="./hack_2.jpg"/>
-		<h4>Проект, с которым выиграли кейс Сбера - платформа для записи к врачу</h4>
-		<a href="https://github.com/VladislavZakrevskiy/INNOHACK-2024-frontend">Ссылка на репозиторий</a>
-	</div>
-	<div>
-		<img src="./kanban_3.jpg"/>
-		<h4>Kanban-приложение с плотной привязкой к API</h4>
-		<a href="https://github.com/VladislavZakrevskiy/KURSA4-kanban-mobile">Ссылка на репозиторий</a>
-	</div>
-	<div>
-		<img src="./gruzoperevozki.png"/>
-		<h4>Nest landing для компании грузоперевозок</h4>
-		<a href="https://github.com/VladislavZakrevskiy/gruzoperevoski_next">Ссылка на репозиторий</a>
-	</div>
-</div>
+<table style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: end">
+	<tr>
+		<td>
+			<img src="./hack_2.jpg"/>
+			<h4>Проект, с которым выиграли кейс Сбера - платформа для записи к врачу</h4>
+			<a href="https://github.com/VladislavZakrevskiy/INNOHACK-2024-frontend">Ссылка на репозиторий</a>
+		</td>
+		<td>
+			<img src="./kanban_3.jpg"/>
+			<h4>Kanban-приложение с плотной привязкой к API</h4>
+			<a href="https://github.com/VladislavZakrevskiy/KURSA4-kanban-mobile">Ссылка на репозиторий</a>
+		</td>
+		<td>
+			<img src="./gruzoperevozki.png"/>
+			<h4>Nest landing для компании грузоперевозок</h4>
+			<a href="https://github.com/VladislavZakrevskiy/gruzoperevoski_next">Ссылка на репозиторий</a>
+		</td>
+	</tr>
+</table>
 
 <h2>My frontend stack:</h2>
 
