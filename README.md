@@ -4,24 +4,25 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web-development and some Back-end, Computer Science from Russia 🇷🇺</h3>
 
-<h2 align="center">My Great Projects</h2>
+<h2 align="center">My Commercial Projects</h2>
 
-<table align="center">
-  <tr>
-    <td>
-      <h4>Javascript/Typescript</h4>
-      <h4>Javascript/Typescript</h4>
-    </td>    
-    <td>
-      <h4>Javascript/Typescript</h4>
-      <h4>Javascript/Typescript</h4>
-    </td>
-    <td>
-      <h4>Javascript/Typescript</h4>
-      <h4>Javascript/Typescript</h4>
-    </td>
-  </tr>
-</table>
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; align-items: end">
+	<div>
+		<img src="./hack_2.jpg"/>
+		<h4>Проект, с которым выиграли кейс Сбера - платформа для записи к врачу</h4>
+		<a href="https://github.com/VladislavZakrevskiy/INNOHACK-2024-frontend">Ссылка на репозиторий</a>
+	</div>
+	<div>
+		<img src="./kanban_3.jpg"/>
+		<h4>Kanban-приложение с плотной привязкой к API</h4>
+		<a href="https://github.com/VladislavZakrevskiy/KURSA4-kanban-mobile">Ссылка на репозиторий</a>
+	</div>
+	<div>
+		<img src="./gruzoperevozki.png"/>
+		<h4>Nest landing для компании грузоперевозок</h4>
+		<a href="https://github.com/VladislavZakrevskiy/gruzoperevoski_next">Ссылка на репозиторий</a>
+	</div>
+</div>
 
 <h2>My frontend stack:</h2>
 
