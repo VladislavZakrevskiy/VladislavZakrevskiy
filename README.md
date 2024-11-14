@@ -1,8 +1,8 @@
 <div align='center'><img src='./header.png' alt='My banner:)'/></div>
 
-<h1 align="center">Hi there, I'm <a href="https://vladislavzakrevskiy.netlify.app/" target="_blank">Frontender</a> 
+<h1 align="center">Hi there, I'm <a href="https://vladislavzakrevskiy.netlify.app/" target="_blank">Fullstack</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web-development and some Back-end, Computer Science from Russia 🇷🇺</h3>
+<h3 align="center">Web-development and Back-end, Computer Science from Russia 🇷🇺</h3>
 
 <h2 align="center">My Commercial Projects</h2>
 
